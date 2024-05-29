@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b33399f-1e17-4736-a748-da423ce854ef" name="Changes" comment="" />
+    <list default="true" id="5b33399f-1e17-4736-a748-da423ce854ef" name="Changes" comment="poprawki">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CZ2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_100_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_10_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_110_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_120_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_130_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_140_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_150_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_20_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_30_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_40_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_50_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_60_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_70_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_80_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_90_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_100_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_10_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_110_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_120_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_130_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_140_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_150_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_20_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_30_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_40_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_50_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_60_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_70_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_80_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_90_nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_saver.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_saver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_graph_operations.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results_graph_operations.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,29 +55,49 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mmikolajewski"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mmikolajewski/cykle.git",
+    "accountId": "c9ed5629-ba55-431e-9b8b-33397de51d4f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2gHR1VnXBAeS0VHvTurZIhxsXHe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.graphs_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.image_saver.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mian1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reader.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mikol/PycharmProjects/hamilton/.venv&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.CZ2.executor": "Run",
+    "Python.generator.executor": "Run",
+    "Python.graphs_generator.executor": "Run",
+    "Python.image_saver.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mian1.executor": "Run",
+    "Python.reader.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/mikol/PycharmProjects/hamilton/.venv",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mikol\PycharmProjects\hamilton\.venv" />
@@ -48,8 +106,8 @@
       <recent name="C:\Users\mikol\PycharmProjects\hamilton" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test1">
-    <configuration name="data_samples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.CZ2">
+    <configuration name="CZ2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hamilton" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\mikol\PycharmProjects\hamilton\data_samples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CZ2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.mian1" />
+        <item itemvalue="Python.CZ2" />
         <item itemvalue="Python.image_saver" />
         <item itemvalue="Python.graphs_generator" />
-        <item itemvalue="Python.data_samples" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.mian1" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +244,17 @@
       <updated>1715352301403</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

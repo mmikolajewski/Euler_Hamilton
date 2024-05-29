@@ -1,0 +1,4 @@
+Number of vertices	Min time	Max time	Average time
+10	0.025286799995228648	0.05828460003249347	0.0388463333559533
+20	inf	inf	inf
+30	inf	inf	inf

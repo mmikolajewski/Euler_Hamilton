@@ -1,5 +1,4 @@
 import os
-import data_samples
 import matplotlib.pyplot as plt
 import networkx as nx
 
@@ -35,8 +34,8 @@ def generate_images_from_files(base_folder='graphs'):
             if filename1.endswith('.txt') and filename2.endswith('.txt'):
                 file_path1 = os.path.join(folder1, filename1)
                 file_path2 = os.path.join(folder2, filename2)
-                g1 = reader.read_graph_from_file(file_path1)
-                g2 = reader.read_graph_from_file(file_path2)
+                g1 = nx.read_edgelist(file_path1, nodetype=int)
+                g2 = nx.read_edgelist(file_path2, nodetype=int)
                 image_path = os.path.join(image_folder, filename1.replace('.txt', '_comparison.png'))
                 title1 = f"Graph with {density_folders[i].split('_')[1]}% edge density"
                 title2 = f"Graph with {density_folders[i + 1].split('_')[1]}% edge density"
