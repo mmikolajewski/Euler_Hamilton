@@ -7,11 +7,11 @@ import statistics
 
 # Parametry, które można łatwo modyfikować
 n_start = 3
-n_stop = 34
-n_step = 2
+n_stop = 15
+n_step = 1
 graph_density = 0.5  # Nasycenie grafu, 0.5 oznacza 50%
-ti_repeat = 3
-ti_number = 3
+ti_repeat = 1
+ti_number = 1
 find_all_cycles = True  # False dla szukania pierwszego cyklu, True dla szukania wszystkich cykli
 
 class Graph():

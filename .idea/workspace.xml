@@ -4,44 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b33399f-1e17-4736-a748-da423ce854ef" name="Changes" comment="poprawki">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CZ2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_100_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_10_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_110_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_120_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_130_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_140_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_150_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_20_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_30_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_40_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_50_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_60_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_70_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_80_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_30/graph_90_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_100_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_10_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_110_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_120_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_130_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_140_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_150_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_20_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_30_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_40_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_50_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_60_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_70_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_80_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/density_70/graph_90_nodes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_saver.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_saver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results_graph_operations.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results_graph_operations.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" />
+    <list default="true" id="5b33399f-1e17-4736-a748-da423ce854ef" name="Changes" comment="Kod dla CZ2 znajduje sie w pliku CZ2, wydaje isę dośc dobrze opisany, zoabcz sobie">
+      <change afterPath="$PROJECT_DIR$/boys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CZ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/CZ2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_samples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mian1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_graph_operations.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="KEEP" />
   </component>
@@ -83,6 +56,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.CZ2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boys.executor&quot;: &quot;Run&quot;,
     &quot;Python.generator.executor&quot;: &quot;Run&quot;,
     &quot;Python.graphs_generator.executor&quot;: &quot;Run&quot;,
     &quot;Python.image_saver.executor&quot;: &quot;Run&quot;,
@@ -93,7 +67,7 @@
     &quot;Python.test1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;CZ2&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mikol/PycharmProjects/hamilton/.venv&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
@@ -106,7 +80,7 @@
       <recent name="C:\Users\mikol\PycharmProjects\hamilton" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.CZ2">
+  <component name="RunManager" selected="Python.boys">
     <configuration name="CZ2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hamilton" />
       <option name="ENV_FILES" value="" />
@@ -121,6 +95,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CZ2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hamilton" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,28 +169,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mian1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="hamilton" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mian1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hamilton" />
       <option name="ENV_FILES" value="" />
@@ -217,13 +191,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hamilton" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mikol\PycharmProjects\hamilton\test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boys" />
         <item itemvalue="Python.CZ2" />
         <item itemvalue="Python.image_saver" />
         <item itemvalue="Python.graphs_generator" />
         <item itemvalue="Python.test1" />
-        <item itemvalue="Python.mian1" />
       </list>
     </recent_temporary>
   </component>
@@ -243,6 +239,15 @@
       <option name="presentableId" value="Default" />
       <updated>1715352301403</updated>
     </task>
+    <task id="LOCAL-00001" summary="Kod dla CZ2 znajduje sie w pliku CZ2, wydaje isę dośc dobrze opisany, zoabcz sobie">
+      <option name="closed" value="true" />
+      <created>1716943338728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716943338728</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,11 +261,16 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Kod dla CZ2 znajduje sie w pliku CZ2, wydaje isę dośc dobrze opisany, zoabcz sobie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kod dla CZ2 znajduje sie w pliku CZ2, wydaje isę dośc dobrze opisany, zoabcz sobie" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mian1.py</url>
+          <url>file://$PROJECT_DIR$/test1.py</url>
           <line>192</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
